@@ -1,6 +1,6 @@
 # BEAUTY HUNT - Beauty Product Comparison Web Application
 
-This frontend codebase was created by Sebastien Ringrose and is designed and built to prerender product pages from data stored in a Firebase Backend. Advanced data filtering is done via a TypeSense cluster and sales copy is pulled from a Contentful project.
+This codebase was created by Sebastien Ringrose and is designed and built to prerender product pages from data stored in a Firebase Backend. Advanced data filtering is done via a TypeSense cluster and sales copy is pulled from a Contentful project.
 
 The UI is built with the MUI React library with a custom theme.
 
