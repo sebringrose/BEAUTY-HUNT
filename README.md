@@ -5,9 +5,10 @@ This frontend codebase was created by Sebastien Ringrose and is designed and bui
 The UI is built with the MUI React library with a custom theme.
 
 <div style="inline-block">
-  <img src="/screenshots/home.png" width="146" height="132">
-  <img src="/screenshots/product.png" width="108" height="112">
+  <img src="/screenshots/home.png" width="292" height="264">
+  <img src="/screenshots/product.png" width="216" height="224">
 </div>
+<br>
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
