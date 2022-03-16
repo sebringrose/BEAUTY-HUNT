@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'Runda';
+  src: url('/fonts/Runda.otf');
+  font-style: normal;
+  font-weight: normal;
+  font-display: auto;
+}
+
+@font-face {
+  font-family: 'Runda';
+  src: url('/fonts/Runda-Bold.otf');
+  font-style: normal;
+  font-weight: bold;
+  font-display: auto;
+}
+
+@font-face {
+  font-family: 'Runda';
+  src: url('/fonts/Runda-Light.otf');
+  font-style: normal;
+  font-weight: lighter;
+  font-display: auto;
+}

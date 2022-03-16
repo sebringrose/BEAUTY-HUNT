@@ -1,0 +1,24 @@
+.nextjs-breadcrumbs-list {
+  display: flex;
+  list-style-type: none;
+  padding: 0;
+}
+@media only screen and (max-width: 600px) {
+  .nextjs-breadcrumbs-list {
+    padding: 0;
+  }
+}
+
+.nextjs-breadcrumbs-list li {
+  margin-left: 5px;
+}
+
+.nextjs-breadcrumbs-list li:not(:first-child)::before {
+  content: "/ ";
+  color: #979797;
+}
+
+.nextjs-breadcrumbs-list a {
+  color: inherit;
+  text-decoration: none;
+}

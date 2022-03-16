@@ -1,0 +1,27 @@
+html, body {
+    font-family: Runda;
+}
+
+.flex-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.infinite-scroll-component__outerdiv {
+    width: 100%;
+}
+
+img {
+    object-fit: contain !important;
+}
+
+.ais-Hits-list {
+    list-style-type: none;
+    padding: "0px";
+}
+
+.ais-Hits-item {
+    margin: "5px";
+}
+
